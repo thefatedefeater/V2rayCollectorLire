@@ -11,11 +11,11 @@
 It is so easy just go ahead and download a V2ray Client App that **supports subscription link** and use these links as subscription link 🤩
 Config Type|subscription link
 -------------------------------|-----------------------------|
-Vmess         |https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/vmess_iran.txt      |
-ShadowSocks        |https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/ss_iran.txt  |
-Trojan |https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/trojan_iran.txt|
-Vless|https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/vless_iran.txt|
-Mixed (configs of this are different)|https://raw.githubusercontent.com/coldwater-10/V2rayCollectorLire/main/mixed_iran.txt|
+Vmess         |https://raw.githubusercontent.com/thefatedefeater/V2rayCollectorLire/main/vmess_iran.txt      |
+ShadowSocks        |https://raw.githubusercontent.com/thefatedefeater/V2rayCollectorLire/main/ss_iran.txt  |
+Trojan |https://raw.githubusercontent.com/thefatedefeater/V2rayCollectorLire/main/trojan_iran.txt|
+Vless|https://raw.githubusercontent.com/thefatedefeater/V2rayCollectorLire/main/vless_iran.txt|
+Mixed (configs of this are different)|https://raw.githubusercontent.com/thefatedefeater/V2rayCollectorLire/main/mixed_iran.txt|
 
 
 ## Todos
@@ -32,7 +32,7 @@ Mixed (configs of this are different)|https://raw.githubusercontent.com/coldwate
  - [x] Fix issue at removing duplicate lines ( duplicates won't create by script , some channels put duplicate configs in their chats :D )
 
 # Telegram channels list that used as source 😉 
-click [here](https://github.com/coldwater-10/V2rayCollectorLire/blob/main/channels.csv) to see the list
+click [here](https://github.com/thefatedefeater/V2rayCollectorLire/blob/main/channels.csv) to see the list
 
 If you know other telegram channels which they put V2ray Configs feel free to add pull request :)
 
