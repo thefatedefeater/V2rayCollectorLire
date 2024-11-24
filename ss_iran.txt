@@ -1,7 +1,8 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8881#@vpnclashfa - 13
-ss://YWVzLTI1Ni1nY206TEJiY1NDd0dKZ3piclVBRWkxdW91NQ==@5.252.21.191:47760#@vpnclashfa - 12
-ss://YWVzLTI1Ni1nY206K3YrWURvVGhlUWFTbXVLbWZQOXM2STEzK2RRSEU5RlpNeUtJWlRaTHFMWT0=@[2a03:6f00:a::2125]:2095?tfo=1&network=tcp#@vpnclashfa - 11
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#@vpnclashfa - 10
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8881#@vpnclashfa - 14
+ss://YWVzLTI1Ni1nY206TEJiY1NDd0dKZ3piclVBRWkxdW91NQ==@5.252.21.191:47760#@vpnclashfa - 13
+ss://YWVzLTI1Ni1nY206K3YrWURvVGhlUWFTbXVLbWZQOXM2STEzK2RRSEU5RlpNeUtJWlRaTHFMWT0=@[2a03:6f00:a::2125]:2095?tfo=1&network=tcp#@vpnclashfa - 12
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#@vpnclashfa - 11
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#@vpnclashfa - 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vpnclashfa - 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnclashfa - 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@vpnclashfa - 7
