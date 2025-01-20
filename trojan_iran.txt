@@ -78,10 +78,10 @@ trojan://telegram-id-directvpn@13.49.8.158:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.48.69.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
 trojan://telegram-id-directvpn@13.48.65.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 30
 trojan://telegram-id-directvpn@13.48.38.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
-trojan://telegram-id-directvpn@13.48.180.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
-trojan://telegram-id-directvpn@13.48.179.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 27
-trojan://telegram-id-directvpn@13.48.150.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 26
-trojan://telegram-id-directvpn@13.43.236.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 25
+trojan://telegram-id-directvpn@13.48.254.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
+trojan://telegram-id-directvpn@13.48.180.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 27
+trojan://telegram-id-directvpn@13.48.179.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 26
+trojan://telegram-id-directvpn@13.48.150.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 25
 trojan://telegram-id-directvpn@13.38.187.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 24
 trojan://telegram-id-directvpn@13.37.92.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 23
 trojan://telegram-id-directvpn@13.37.90.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 22
